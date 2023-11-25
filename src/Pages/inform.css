@@ -1,0 +1,426 @@
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    width: 900px; 
+    margin: 0 auto; 
+    }
+   
+    .left-textfield {
+    flex: 1;
+    }
+    
+    .right-textfield {
+    flex: 1;
+    margin-left: 10px; 
+    }
+    .container2 {
+    display: flex;
+    justify-content: space-between;
+    }
+    
+    .form-row {
+    margin-bottom: 10px; 
+    }
+    .volunteer-form-container {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 80px;
+        background-color:white;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        
+        
+      }
+    
+    
+      .volun {
+        background-image: url('https://www.petsfolio.com/in/wp-content/themes/petsfolio/images/insurance-bg.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 40px;
+        
+        
+      }
+      label{
+        font-size: 25px;
+        color: black;
+       font-family: 'Times New Roman', Times, serif;
+      }
+      .ins{
+        width:250px;
+        padding: 20px;
+        border-radius: 10px;
+      border-color: black;
+      border: 1px solid black;
+      }
+      .inselect{
+        width:250px;
+        padding:20px;
+        border-radius: 10px;
+        border: 1px solid black;
+      }
+     .inbutton{
+        background-color: #000000;
+       color: aliceblue;
+       font-size: 25px;
+       width: 150px;
+       
+      }
+      
+.petwht-insrc {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.petcontainer {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.petwht-insr-lst {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.petwht-ins-itm {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+.petwht-ins-itm img {
+  max-width: 100%;
+}
+
+.petm-b-40 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.petm-b-30 {
+  font-size: 15px;
+  margin-bottom: 10px;
+  color: black;
+}
+/* Style for the main section */
+.p4why-ned-insr {
+  width: 100%;
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+/* Style for the container div */
+.p4container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Style for the text container */
+.p4whyned-txt {
+  text-align: center;
+}
+
+/* Style for the heading */
+.p4 {
+  color: #333;
+}
+
+/* Style for the list container */
+.p4whyned-lst {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+/* Style for each individual item */
+.p4whyned-itm {
+  width: 23%;
+  margin: 10px 0;
+  padding: 15px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the image container */
+.p4whyned-img {
+  text-align: center;
+}
+
+/* Style for paragraphs with class p4p_1 */
+.p4p_1 {
+  color: black;
+  font-size: 15px;
+  line-height: 1.6;
+}
+.p4p_11 {
+  color:black;
+  font-size: 19px;
+  line-height: 1.6;
+}
+
+/* Style for paragraphs with class p4psm_s */
+.p4psm_s {
+  font-weight: bold;
+}
+
+.p4container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Style for the text container */
+.p4whyned-txt {
+  text-align: center;
+}
+
+/* Style for the heading */
+.p5{
+  color: black;
+  
+}
+.p5instype-itm {
+  width: 45%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.p5instype-lft {
+  flex: 1; /* Takes up the available space */
+}
+
+.p5instype-img img {
+  width: 160px; /* Adjust the width of the image */
+  height: auto;
+  border-radius: 8px;
+  margin-left: 20px; /* Adds some space between the content and image */
+}
+
+
+/* Style for paragraphs with class p4psm_s */
+.p5psm_s {
+  font-weight: bold;
+}
+.p5psm_s {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.p5p_1 {
+  font-size: 15px;
+  color: black;
+}
+.p5psm_sm-b-20{
+  font-size: 20px;
+}
+
+/*.p5instype-itm {
+  width: 45%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}*/
+
+.p5instype-itm .p5instype-lft {
+  margin-bottom: 10px;
+
+}
+.p5instype-content {
+  width: calc(100% - 130px); /* 130px (100px for the image + 30px margin) */
+}
+
+/*.p5instype-itm {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  margin-bottom: 20px;
+}*/
+
+.p5instype-lst {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.p5instype-txt {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.p5-container {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+/* Styling for the parent container */
+.p6-container {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+}
+
+/* Style for the section header */
+.p6-m-b-40 {
+  color: #333;
+  font-size: 24px;
+}
+
+/* Styles for the inclusion and exclusion sections */
+.p6-insr-incld-lst {
+  display: flex;
+  justify-content: space-between;
+}
+
+.p6-insr-incld-itm {
+  width: 45%;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+/* Styles for texts in inclusion and exclusion */
+.p6-psm_s {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.p6-p_1 {
+  color: #666;
+}
+
+/* Styles for the images */
+.p6-inclus-img img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.p6-inclus-lft-img{
+  align-items: center;
+}
+
+/* Styles for the inclusion/exclusion items */
+.p6-inclus-itm {
+  margin: 10px 0;
+}
+.p6-m-b-40{
+  align-items: center;
+  text-align: center;
+}
+.p6-pss_s1-inline {
+  display: inline;
+  margin-left: 10px; /* Adjust margin as needed */
+}
+/* Flex container for each section */
+.p6-insr-incld-lst {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.p6-inclus-itm {
+
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px; 
+  flex-direction: row-reverse;
+}
+
+.p6-inclus-lft-img img {
+ display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px; /* Adjust margin as needed */
+ padding-right: 5px;
+ 
+}
+/* Section */
+.p7-insr-eligi {
+  background-color: #f5f5f5;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Container */
+.p7-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Flex container */
+.p7-insr-eleg-lst {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Individual item */
+.p7-insr-elgi-itm {
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+/* Heading */
+.p7-m-b-20 {
+  margin-bottom: 20px;
+  font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+/* Paragraph */
+.p7-p_1 {
+  font-size: 20px;
+  line-height: 1.6;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Link */
+.p7-psm_s {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #FFA500;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 15px;
+  transition: background-color 0.3s ease;
+}
+
+.p7-psm_s:hover {
+  background-color: #FFD700;
+}
+
+/* Image container */
+.p7-insr-elgi-itm img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
+    
+    
+    
+    

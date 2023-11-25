@@ -1,0 +1,86 @@
+/* form2.css */
+.f2-grmng-pkg-sec {
+  display: flex;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.f2-container {
+  max-width: 1200px;
+  width: 100%;
+ 
+}
+
+.f2-grmng-pkg-sec-cnt {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.f2-grmng-pkg-sec-lft {
+  flex: 1;
+  padding: 10px;
+}
+
+.f2-grmng-pkg-sec-lft img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+}
+
+.f2-grmng-pkg-sec-ryt {
+  flex: 2;
+  padding: 10px;
+}
+
+/* Additional styles for form elements */
+/* You can add more styles for form elements here */
+.f2-form-cntl {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.f2-rum_1{
+  color: black;
+}
+.f2-form-group input[type="text"],
+.f2-form-group input[type="tel"],
+.f2-form-group input[type="email"] {
+  width: 100%;
+  padding: 8px; /* Smaller padding */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px; /* Smaller font size */
+}
+
+/* Styling for the "Back" and "Sign Up" buttons */
+.f2-nxt_bk {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.f2-pckg_bk_btn,
+.f2-pckg_nxt_btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.f2-pckg_bk_btn {
+  background-color: black;
+}
+
+.f2-pckg_nxt_btn {
+  background-color: black; /* Change this to your desired color */
+}
+.f2-num-countm-b-20{
+color: black;
+}
+

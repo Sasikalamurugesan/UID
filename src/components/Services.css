@@ -1,0 +1,315 @@
+
+.services-container {
+    width: 100%;
+    max-width: 6500px;
+    height: 700px;
+    padding: 180px;
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    background-image: url(" https://www.petsfolio.com/in/wp-content/themes/petsfolio/images/grooming-bnr.jpg");
+  }
+  
+  .services-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .services-text {
+    width: 100%;
+    color:white;
+   font-size: medium;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .services-image {
+    width: 45%;
+    text-align: center;
+  }
+  
+  .img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .h1 {
+    font-size: 28px;
+  }
+  
+  .p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .book-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: pink;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .book-button:hover {
+    background-color: #FFD54F;
+  }
+  
+  .booking-form {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+  }
+  
+  .h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .quot-slider {
+    
+    display: flex; /* Set the container to display its children in a row */
+    
+    /* Add any other styling you need */
+  }
+  .quot-slider-cord {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .quot-slider-cord img {
+    width: 100px;
+    margin-right: 10px; /* Adjust the spacing between the image and text as needed */
+  }
+  
+  .quot-slider-cord h6 {
+    flex: 1;
+    white-space: nowrap;/* Prevent text from wrapping to multiple lines */
+  overflow: hidden; /* Hide any overflow text */
+   /* Allow the text to take up the remaining space */
+  }
+  .tr-features-sec {
+    background-color: #f5f5f5;
+    padding: 40px 0;
+  }
+  .tr-features-cnt {
+    display: flex;
+    align-items: center;
+  }
+  .tr-feat-lft img {
+    max-width: 100%;
+  }
+  .tr-feat-ryt {
+    margin-left: 20px;
+  }
+  .tr-feat-ryt h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  .tr-cord-img img {
+    max-width: 40px;
+    margin-right: 20px;
+  }
+  .nmr_pp {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .sm_1 {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  .hpyns-sec {
+    padding: 40px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .s1 container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .hpyns-sec-cnt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    
+  }
+  
+  .hpyns-slider {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+ 
+  }
+  
+  
+  
+  .hpyns-cords:hover {
+    background-color: #f3f3f3;
+  }
+  
+  .hpyns-cords-img img {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .hpyns-cord-matr {
+    margin-left: 10px;
+    text-align: left;
+  }
+  
+  .hpyns-cord-matr h6 {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .hpyns-cord-matr p {
+    font-size: 1em;
+  }
+  
+  .hpyns-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .hpyns-img-slider {
+    width: 100%;
+  }
+  
+  .hpyns-img {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+  }
+  
+  
+  
+  
+  .hpyns-cord-matr {
+    flex: 1; /* Allow the text to grow and take available space */
+  }
+  
+  .hpyns-img {
+    flex: 1; /* Allow the video to grow and take available space */
+  }
+  .hpyns-cord-video {
+    display: flex;
+    width: 100%; /* Full width of the screen */
+  }
+  
+  .hpyns-cord-matr {
+    flex: 1; /* Allow the text to grow and take available space */
+  }
+  .hpyns-cords.flex-center {
+    display: flex;
+    align-items: center; /* Vertically center items */
+  }
+  .hpyns-slider {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 10px;
+  }
+  
+ 
+  
+  .hpyns-cords:hover {
+    background-color: #f3f3f3;
+  }
+  .hpyns-cords {
+    width: 100%; /* Adjust the width as needed to make the cards larger */
+    max-width: 550px; /* Adjust the max-width as needed */
+    margin: 10px;
+    padding: 50px; /* Increase padding to make the card larger */
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+   height: 400px;
+  }
+  .tr-options {
+    padding: 20px 0;
+    background-color: #f9f9f9;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  
+  .tr-option-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .tr-opt-cords {
+    flex: 1;
+    max-width: 200px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  
+  .tr-opt-cords:hover {
+    background-color: #f3f3f3;
+  }
+  
+  .tr-opt-crd-img img {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 20px;
+  }
+  
+  .tr-opt-crd-mtr {
+    text-align: center;
+  }
+  
+  .p_1s {
+    font-size: 16px;
+  }
+  .quot-slider {
+    display: flex;
+  }
+  
+  .quot-slider-cord {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .quot-slider-cord img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .p_1s {
+    font-size: 16px;
+    line-height: 1.2;
+  }
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  

@@ -1,0 +1,144 @@
+[
+    {
+        "id": 1,
+        "name": "Black Baseball Cap",
+        "image": "https://www.petsfolio.com/in/shop/wp-content/uploads/2023/11/Orange-Gingham-Dungaree-Bandana-min-300x300.jpg",
+        "description": "This stylish Dog-O-Bow orange gingham dungaree bandana. It features a bow detail on the front and is perfect for adding a touch of fashionable flair to any pup’s look. "
+        
+    },
+    {
+        "id": 2,
+        "name": "Black Tuxedo Bandana",
+        "image": "https://www.petsfolio.com/in/shop/wp-content/uploads/2023/10/Birthday-dude-Neckerchief1-2-min-300x300.jpg",
+        "description": "Play heads up to the individually handcrafted and 100% Dog-O-Bow styled doggy neckerchiefs that are quite a headturner everywhere, be it on doggy events or traditional occasions and get togethers."
+      
+    },
+    {
+        "id": 3,
+        "name": "Tuxedo Wrap",
+        "image": "https://www.petsfolio.com/in/shop/wp-content/uploads/2023/11/KN_02778-min-scaled.jpg",
+        "description": "Let your pooch play host to a party in this modern tailless Tuxedo Wrap. Quite a norm for the evening wears, it has a perfect finish with immaculate details of pockets and collar. Easy-to-wear, this Tuxedo Wrap has velcro fastening at the neck and waist band."
+        
+    },
+    {
+        "id": 4,
+        "name": "Birthday girl Scarf",
+        "image": "https://www.petsfolio.com/in/shop/wp-content/uploads/2023/11/Stealin-Farts-Neckerchief-1-min-300x300.jpeg",
+        "description": "Play heads up to the individually handcrafted and 100% Dog-O-Bow styled doggy neckerchiefs that are quite a headturner everywhere, be it on doggy events or traditional occasions and get togethers. With multiple colours, quality prints and fabric, these neckerchiefs are such delightful beauties for your doggo’s occasional cum party wear."
+        
+    },
+    {
+        "id":5,
+        "name": "Smart Toy",
+        "image": "https://pawsindia.com/cdn/shop/products/511wgZLf-eL._SX679_1e6f6d80-1299-4608-aa18-efb2af465502.jpg?v=1674478863",
+        "description": "The brand new 2.2-inch Wicked Ball SE is designed to be the best smart companion for dogs in the house. Made of natural rubber and TPU, it is so easy and safe for pups to pick it up in the mouth and dramatically reduces noise in the play so you don't get bothered.  "
+        
+    },
+    {
+        "id":6 ,
+        "name": "ROYAL CANIN",
+        "image": "https://pawsindia.com/cdn/shop/products/LabradorRetrieverAdult-8_360x.png?v=1686824240",
+        "description": "ROYAL CANIN Labrador Retriever Adult 5+ is a breed-specific dog food diet specially formulated for Labrador Retrievers to support a healthy ageing process as they enter their senior years.  "
+        
+    },
+    {
+        "id": 7,
+        "name": "Schesir ",
+        "image": "https://pawsindia.com/cdn/shop/products/IMG_9210.webp?v=1676096441",
+        "description": "A Schesir recipe based on real chicken, combined with a topping of sweet and tasty carrots , served in mouthwatering jelly format, for an indulgent and original meal. IngredientsChicken 45% (of which fillets 20%, gizzards 13%, hearts 8%, livers 4%), potatoes 5%, rice 3%, carrots 2%, minerals Analytic components protein 10% crude oils. "
+       
+    },
+    {
+        "id": 8,
+        "name": "Chew Seasoning Powder ",
+        "image": "https://pawsindia.com/cdn/shop/products/dogsee1.jpg?v=1663654164",
+        "description": "Give your dog this dog food flavor enhancer that will improve the taste of any food that is fed to them. This seasoning powder aids to the overall health of dogs of all ages by supplying them with the necessary amounts of calcium and multivitamins. "
+       
+    }
+    ,{
+        "id": 9,
+        "name": "Witty The Owl",
+        "image": "https://pawsindia.com/cdn/shop/products/1_8.jpg?v=1617299850",
+        "description": " Petshop is delighted to bring you this dog chew toy. It is one of the best dog toys- the Ultimate Chew toy. It has an inbuilt speaker, and it squeaks. It has fun, vibrant colours, has dental benefits, and helps tackle anxiety and depression in dogs.  "
+        
+    }
+    ,{
+        "id": 10,
+        "name": "Trixie-Sound Plush Toy",
+        "image": "https://pawsindia.com/cdn/shop/files/PHO_PRO_CLIP_3590-1__23SALL__23AWK__23V1.jpg?v=1696062958",
+        "description": " plush (polyester) with sound "
+       
+    }
+    ,{
+        "id": 11,
+        "name": "Topdog",
+        "image": "https://pawsindia.com/cdn/shop/products/Boomerang_1.jpg?v=1660637659",
+        "description": "The engaging design and materials keep your pets entertained for hours and add to their loving collection. Ecocert Certified  100% Hand Made  Organic  Premium Quality Chrome Free Dye Safe for Pets Chew Friendly "
+      
+    }
+    ,{
+        "id": 12,
+        "name": "Pet topdog ",
+        "image": "https://pawsindia.com/cdn/shop/products/IMG_2560copy.jpg?v=1670500738",
+        "description": " Bring home your pet's new best friend. Adorable, soft and conveniently sized toy's for their playtime. The engaging design and materials keep your pets entertained for hours and add to their loving collection. Ecocert Certified  100% Hand Made  Organic  Premium Quality Chrome Free Dye Safe for Pets Chew Friendly"
+       
+    }
+    ,{
+        "id": 13,
+        "name": "Basil - Spike Teething",
+        "image": "https://pawsindia.com/cdn/shop/products/5Z1A6383.jpg?v=1669549743",
+        "description": "Bringing you the best selection of Pet toys for your beloved pets to keep them engaged and happy in their time away from you. At Basil, we ensure that the toys are of standard quality, Non-toxic for safety of pets and their delight.  "
+       
+    }
+    ,{
+        "id": 14,
+        "name": "Benebone's Fishbone ",
+        "image": "https://pawsindia.com/cdn/shop/products/BB_FB_MED_JSM_03.jpg?v=1657625821",
+        "description": " Coming back to the house and finding your favourite shoes or new carpet chewed is never fun. There are several reasons why your furry friend chews on things. It is normal behaviour of your canine to chew."
+        
+    }
+    ,{
+        "id": 15,
+        "name": "Chew Stick Dog Toy",
+        "image": "https://pawsindia.com/cdn/shop/products/red1.jpg?v=1661421340",
+        "description": " The Ultimate Chew Stick is the last chew toy you'll need for your dog. This chew toy's rubber body can easily handle the strongest bites. Just give it to your dog and watch them go to town with the toy. "
+       
+    }
+    ,{
+        "id": 16,
+        "name": "Jelly Fish",
+        "image": "https://pawsindia.com/cdn/shop/products/JellyFish_2.jpg?v=1660637691",
+        "description": " Fun, Eye Catching and Engaging, the Tug & Play Rope Toys are here to let your pets have a gala time. Simply toss it on the ground and let your pet play or chew on it. Ecocert Certified  100% Hand Made  Organic  Premium Quality ."
+
+        
+    }
+    ,{
+        "id": 17,
+        "name": "Wooden Ring Rope ",
+        "image": "https://pawsindia.com/cdn/shop/products/RY4_1_449d21ad-360f-43a3-ae1b-18fd2f534530.jpg?v=1660898385",
+        "description": " After the success of the Borromean rings and Roman Ring, PawsIndia introduces another built-to-last rope toy for your pet doggo - Wooden Ring Rope Toy. A rugged, durable toy to play tug with your buddy."
+       
+    },{
+        "id": 18,
+        "name": "Plush toy ",
+        "image": "https://pawsindia.com/cdn/shop/products/1_5.jpg?v=1669552968",
+        "description": "Bringing you the best selection of Pet toys for your beloved pets to keep them engaged and happy in their time away from you. At Basil, we ensure that the toys are of standard quality, Non-toxic for safety of pets and their delight. "
+        
+    },{
+        "id": 19,
+        "name": " rustling branch",
+        "image": "https://pawsindia.com/cdn/shop/files/32622.jpg?v=1688455873",
+        "description": " if a puppy comes into your home, you will need special equipment for the little pet. An exciting time with the new member of your family awaits you!"
+        
+    },{
+        "id": 20,
+        "name": "TPR Bone with Sound",
+        "image": "https://pawsindia.com/cdn/shop/files/PHO_PRO_CLIP_33671-3__23SALL__23AWK__23V1_360x.jpg?v=1696060322",
+        "description": " Thermoplastic rubber (TPR) with sound",
+        "breed": "Pomeranian",
+        "gender": "Female",
+        "age": "1 year",
+        "color": "Brown",
+        "size": "Small"
+    }
+]

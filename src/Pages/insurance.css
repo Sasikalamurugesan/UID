@@ -1,0 +1,101 @@
+/* Reset some default styles for consistency */
+body, html, div, p, label, input, select {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+  }
+  
+  /* Apply styles to the main container */
+  .Inhm-bnr-sec {
+    background-size: cover;
+    background-position: center;
+    color:black;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .Incontainer {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .Inhm-bnr-cnt {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 20px;
+  }
+  
+  /* Apply styles to text content */
+  .Inm-b-10 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .Ingp_1 {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  /* Style the form elements */
+  .Inins-frm-itm {
+    margin-bottom: 20px;
+    width: 300px;
+
+  }
+  
+  .Inins-frm-itm label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .Inwpcf7-select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .Inwpcf7-text {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Style the submit button */
+  .Inwpcf7-submit {
+    background-color: #ff69b4;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Add hover effect to the button */
+  .Inwpcf7-submit:hover {
+    background-color: #f0d2e2;
+  }
+  .container2 {
+    display: flex;
+  justify-content: space-between;
+  width: 300px; 
+  margin: 0 auto;
+    justify-content: space-between;
+    }
+    .volunteer-form-container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 30px;
+      background-color: #f7f7f7;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      justify-content: space-between;
+    }
+  
+  

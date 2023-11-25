@@ -1,0 +1,193 @@
+
+.grmng-pkg-sec {
+  background-color: #f4f4f4;
+  padding: 30px;
+}
+
+.f container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  background-color: #ccc;
+}
+
+.grmng-pkg-sec-cnt {
+  flex: 1;
+  display: flex;
+}
+
+
+.grmng-pkg-sec-lft {
+  width: 40%;
+  padding: 10px;
+  background-color: white;
+  
+}
+
+.lftimg img {
+  max-width: 100%;
+  height: auto;
+}
+
+.grmng-pkg-sec-ryt {
+  flex: 1;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.rum_1 {
+  color: #333;
+  font-size: 24px;
+}
+
+.grmng-strt-prc {
+  background-color: #7ec7f8;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  height: min-content;
+  width: 100%;
+}
+
+.p_1 {
+  display: flex;
+  align-items: center;
+}
+
+.p_1 img {
+  margin-left: 10px;
+  max-height: 20px;
+}
+
+.h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.chk-img img {
+  max-width: 20px;
+  max-height: 20px;
+  margin-right: 10px;
+}
+
+.grmng-opt-sec {
+  padding-top: 20px;
+}
+
+.psm_22 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.npr_1 {
+  display: flex;
+  align-items: center;
+}
+
+.npr_1 input {
+  margin-right: 10px;
+}
+
+.nxt_bk {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.pckg_bk_btn,
+.pckg_nxt_btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.pckg_bk_btn {
+  background-color: #ccc;
+  margin-right: 10px;
+}
+.pckg_nxt_btn {
+  background-color: black;
+  font-size: 50px;
+  
+}
+/* Add this style to create a rounded rectangle around "Start from" */
+.p_1.dwn-p {
+  background-color: #fff; /* Background color for the rounded rectangle */
+  color: #333; /* Text color */
+  padding: 5px 20px;
+  width: 60%; /* Adjust the padding to control the size of the rounded rectangle */
+  border-radius: 10px; /* Adjust the border radius to control the roundness */
+}
+.grmng-strt-prc-ryt {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center; /* Optional: vertically center the content */
+}
+.form-card {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: white;
+}
+
+.options-container {
+  margin-top: 10px;
+
+}
+
+
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  background-color: #fff; 
+  color: #333; 
+  padding: 5px 20px;
+  width: 30%; 
+  border-radius: 10px;
+   border-color: #333;
+}
+
+
+.form-group input[type="radio"],
+.form-group input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.form-option {
+  background-color: #f0f0f0; /* Background color for the rounded rectangle */
+  border-radius: 10px; /* Adjust the radius to control the roundness */
+  padding: 10px; /* Add padding for spacing within the rectangle */
+  margin: 5px; /* Add margin for spacing between rectangles */
+  display: inline-block; /* Display options in a row */
+}
+
+.form-option label {
+  margin-left: 10px; /* Add some spacing between the radio button and label */
+}
+
+.options-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* To create space between options */
+}
+
+.form-group {
+  width: calc(33.33% - 10px); /* 33.33% width for each option with a margin */
+  margin: 5px; /* Add margin for spacing between rectangles */
+  background-color: #f0f0f0; /* Background color for the rounded rectangle */
+  border-radius: 10px; /* Adjust the radius to control the roundness */
+  padding: 10px; /* Add padding for spacing within the rectangle */
+}
+
+
+
+
+

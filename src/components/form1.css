@@ -1,0 +1,135 @@
+
+/* form1.css */
+
+/* Add global styles or reset styles if needed */
+
+/* Container styles */
+.f1grmng-pkg-sec {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+.f1form-groupfrm-time{
+  width: 100px;
+}
+
+
+.f1container {
+  max-width: 1200px;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Left section with image */
+.f1grmng-pkg-sec-lft {
+  flex: 1;
+}
+
+.f1grmng-pkg-sec-lft img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Right section with form content */
+.f1grmng-pkg-sec-ryt {
+  flex: 2;
+}
+
+/* Form styles */
+.grmng-pkg-frm {
+  padding: 20px;
+}
+
+/* Number count styles */
+.f1num-count h3 {
+  font-size: 24px;
+  color: #333;
+  margin: 0;
+}
+
+/* Heading styles */
+.f1rum_1 {
+  font-size: 24px;
+  color: #333;
+  margin: 0;
+  font-family: 'slick';
+}
+
+/* Progress bar styles */
+.f1pr_bar ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  margin: 0;
+}
+
+
+.f1pr_bar li:last-child {
+  margin-right: 0;
+}
+
+/* Form input styles */
+.f1gpr_2 {
+  width: 200px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Radio and checkbox styles */
+.f1form-option {
+  display: flex;
+  align-items: center;
+}
+
+.form-option label {
+  margin-left: 10px;
+  font-size: 18px;
+}
+
+/* Textarea styles */
+.f1p_11 {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Button styles */
+.f1pckg_bk_btn,
+.pckg_nxt_btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.f1pckg_bk_btn {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  font-size: 20px;
+}
+
+.pckg_nxt_btn {
+  background-color: black;
+  flex: 1;
+  font-size: 20px;  /* Change this to your desired color */
+}
+.f1npr_1{
+  width:190px;
+}
+.f1frm-time-lft{
+  width: 100px;
+}
+
+
+

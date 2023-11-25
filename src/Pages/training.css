@@ -1,0 +1,37 @@
+/* Add this CSS to your styles file (e.g., styles.css or Training.css) */
+
+/* Style for the main container */
+.main-container {
+    max-width: 1900px;
+    margin: 0 auto; 
+  }
+  
+  /* Style for the image */
+  .training-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Style for the content */
+  .training-content {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style for the first paragraph */
+  .p5p_12 {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.6;
+    color: #333; /* Adjust color as needed */
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the other paragraphs */
+  .training-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #444; /* Adjust color as needed */
+    margin-bottom: 15px;
+  }
+  

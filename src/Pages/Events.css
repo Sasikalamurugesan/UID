@@ -1,0 +1,77 @@
+.blog-page{
+    overflow-x: hidden;
+  }
+  .video-container {
+      position: relative;
+      display: inline-block;
+      padding-left: 20px;
+    }
+    
+    .blog-video {
+      max-width: 100%;
+    }
+    
+    .video-text-overlay {
+      position: absolute;
+      top: 10px; /* Adjust this value to change the vertical position */
+      right: 10px; /* Adjust this value to change the horizontal position */
+      background-color: rgba(0, 0, 0, 0.5); /* Background color for the text box */
+      color: #fff; /* Text color */
+      padding: 10px;
+      border-radius: 5px;
+   
+    }
+    
+    /* Additional styling for the text */
+    .video-text-overlay h2 {
+      margin: 0;
+      font-size: 16px;
+    }
+    
+    .video-text-overlay p {
+      margin: 0;
+      font-size: 14px;
+    }
+    .grid-container1{
+      display: grid;
+      grid-template-columns: repeat(2, 1fr); /* Three columns with equal width */
+      grid-gap: 20px; /* Gap between grid items */
+       /* Adjust margin as needed */
+    }
+    
+    .grid-item1 {
+       /* Background color for grid items */
+      padding: 20px; /* Adjust padding as needed */
+      text-align: center; /* Center text within grid items */
+    }
+    .grid-item1:hover {
+      transform: scale(1.1); /* Increase the size by 10% when hovered */
+      transition: transform 0.3s ease; /* Add a smooth transition effect */
+    }
+    
+    /* In your CSS file or in-line styles */
+    
+    p{
+      font-size: medium;
+    }
+    
+    h2{
+      font-size: 28px;
+      
+    }
+    
+    .descriptionB {
+      background-image: url('https://octanecdn.com/forevervetscom/forevervetscom_804116930.gif');
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 20px;
+      height: 700px;
+      /* Add a shadow effect */
+    
+    }
+    .footer{
+      background-color: #f5f5f5; /* Background color for grid items */
+      /* Adjust padding as needed */
+      text-align: center; 
+      width: 100%;
+    }
